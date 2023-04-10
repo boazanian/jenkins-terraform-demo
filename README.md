@@ -1,1 +1,1 @@
-# jenkins-terraform-demo
+# jenkins-example-terraform
